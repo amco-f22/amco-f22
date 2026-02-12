@@ -1,20 +1,3 @@
-
-<!--
-**amco-f22/amco-f22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 </div>
@@ -67,7 +50,7 @@ I'm a <b>DevOps Engineer</b> from India 🇮🇳, currently pursuing a <b>B.Tech
 <table>
   <tr>
     <td width="50%">
-      <h4>🔒 End-to-End DevSecOps Pipeline</h4>
+      <h4><a href="https://github.com/amco-f22/DevSecOps-Netflix-Clone-K8s.git">🔒 End-to-End DevSecOps Pipeline</a></h4>
       <p><em>Jenkins | Kubernetes | Docker | ArgoCD | Prometheus | Grafana</em></p>
       <ul>
         <li>CI/CD pipeline with Jenkins & GitHub Actions — <b>50% faster deployments</b></li>
@@ -77,7 +60,7 @@ I'm a <b>DevOps Engineer</b> from India 🇮🇳, currently pursuing a <b>B.Tech
       </ul>
     </td>
     <td width="50%">
-      <h4>🏗️ Highly Available 3-Tier AWS Infrastructure</h4>
+      <h4><a href="https://github.com/amco-f22/aws-3tier-github-actions-terraform.git">🏗️ Highly Available 3-Tier AWS Infrastructure</a></h4>
       <p><em>Terraform | AWS | Docker | GitHub Actions</em></p>
       <ul>
         <li>Reusable Terraform modules — <b>setup time from hours to minutes</b></li>
@@ -89,7 +72,7 @@ I'm a <b>DevOps Engineer</b> from India 🇮🇳, currently pursuing a <b>B.Tech
   </tr>
   <tr>
     <td width="50%">
-      <h4>💰 Automated Cloud Cost Optimization</h4>
+      <h4><a href="https://github.com/amco-f22/AWS-Cloud-Cost-Optimization.git">💰 Automated Cloud Cost Optimization</a></h4>
       <p><em>AWS Lambda | Python | EventBridge | IAM</em></p>
       <ul>
         <li>Serverless architecture to clean up <b>50+ stale EBS snapshots</b></li>
