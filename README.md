@@ -14,6 +14,9 @@
   <a href="https://github.com/amco-f22" target="_blank">
     <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="github logo" />
   </a>
+  <a href="https://www.threads.net/@a_manincloud" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Threads&logo=threads&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="threads logo" />
+  </a>
 </div>
 
 ###
@@ -28,22 +31,24 @@
 
 ###
 
-<h3 align="left">👨‍💻  About Me</h3>
+<h3 align="left">👨‍💻 About Me</h3>
 
 ###
 
 <p align="left">
-I'm a <b>DevOps Engineer</b> from India 🇮🇳, currently pursuing a <b>B.Tech in Computer Science & Engineering</b> at DIT University, Dehradun.<br><br>
+I'm a <b>DevOps & Cloud Engineer</b> from India 🇮🇳, in my final year of <b>B.Tech in Computer Science & Engineering</b> at DIT University, Dehradun.<br><br>
+
 - 🔭 I build <b>scalable cloud infrastructure</b> and <b>automated CI/CD pipelines</b> on AWS<br>
-- 🛡️ Passionate about <b>DevSecOps</b> — integrating security into every stage of the pipeline<br>
-- ☁️ Experienced with <b>Terraform, Kubernetes, Docker, Jenkins, and ArgoCD</b><br>
-- 📚 Currently deepening my skills in <b>Cloud Architecture</b> and <b>Infrastructure as Code</b><br>
-- ⚡ In my free time, I work on hands-on DevOps projects and explore new cloud-native technologies
+- 🛡️ Passionate about <b>DevSecOps</b> — integrating security (SAST, SCA, DAST) at every stage of the pipeline<br>
+- ☁️ Hands-on with <b>Terraform, Kubernetes, Docker, Jenkins, ArgoCD, Prometheus & Grafana</b><br>
+- 🧩 Built <b>oneCart</b> — a MERN stack e-commerce app with voice-controlled navigation, as my B.Tech capstone<br>
+- 📚 Currently deepening expertise in <b>Cloud Architecture, SRE practices, and Infrastructure as Code</b><br>
+- ⚡ I share DevOps and cloud content on <a href="https://www.threads.net/@a_manincloud">Threads (@a_manincloud)</a> and LinkedIn
 </p>
 
 ###
 
-<h3 align="left">🚀  Featured Projects</h3>
+<h3 align="left">🚀 Featured Projects</h3>
 
 ###
 
@@ -54,9 +59,9 @@ I'm a <b>DevOps Engineer</b> from India 🇮🇳, currently pursuing a <b>B.Tech
       <p><em>Jenkins | Kubernetes | Docker | ArgoCD | Prometheus | Grafana</em></p>
       <ul>
         <li>CI/CD pipeline with Jenkins & GitHub Actions — <b>50% faster deployments</b></li>
-        <li>Security scanning with SonarQube, Trivy & OWASP</li>
+        <li>Security scanning with SonarQube, Trivy & OWASP ZAP</li>
         <li>GitOps workflow with ArgoCD on Kubernetes</li>
-        <li>Observability stack with Prometheus & Grafana</li>
+        <li>Full observability stack with Prometheus & Grafana</li>
       </ul>
     </td>
     <td width="50%">
@@ -75,18 +80,20 @@ I'm a <b>DevOps Engineer</b> from India 🇮🇳, currently pursuing a <b>B.Tech
       <h4><a href="https://github.com/amco-f22/AWS-Cloud-Cost-Optimization.git">💰 Automated Cloud Cost Optimization</a></h4>
       <p><em>AWS Lambda | Python | EventBridge | IAM</em></p>
       <ul>
-        <li>Serverless architecture to clean up <b>50+ stale EBS snapshots</b></li>
-        <li>Reduced cloud costs by <b>~30%</b></li>
+        <li>Serverless cleanup of <b>50+ stale EBS snapshots</b></li>
+        <li>Reduced cloud spend by <b>~30%</b></li>
         <li>Saved <b>5+ hours/month</b> of manual audit effort</li>
-        <li>Secured with least-privilege IAM policies</li>
+        <li>Least-privilege IAM policies throughout</li>
       </ul>
     </td>
     <td width="50%">
-      <h4>🎓 Certifications</h4>
+      <h4>🛒 oneCart — B.Tech Capstone Project</h4>
+      <p><em>MongoDB | Express | React | Node.js</em></p>
       <ul>
-        <li>☁️ AWS Cloud Practitioner Essentials</li>
-        <li>🐳 KodeKloud Engineer Docker (Level 1)</li>
-        <li>🌐 Verizon Cloud Platform Job Simulation (Forage)</li>
+        <li>Full-stack e-commerce app with <b>voice-controlled navigation</b></li>
+        <li>Accessible UX designed for hands-free interaction</li>
+        <li>End-to-end MERN architecture with RESTful APIs</li>
+        <li>Presented as final-year capstone at DIT University</li>
       </ul>
     </td>
   </tr>
@@ -94,7 +101,21 @@ I'm a <b>DevOps Engineer</b> from India 🇮🇳, currently pursuing a <b>B.Tech
 
 ###
 
-<h3 align="left">🛠  Languages & Tools</h3>
+<h3 align="left">🎓 Certifications</h3>
+
+###
+
+<ul>
+  <li>☁️ <b>AWS Cloud Practitioner Essentials</b> — Amazon Web Services</li>
+  <li>🐳 <b>KodeKloud Engineer Docker</b> (Level 1)</li>
+  <li>🌐 <b>Verizon Cloud Platform Job Simulation</b> — Forage</li>
+  <li>🤖 <b>Datacom Software Engineering Job Simulation</b> — Forage</li>
+  <li>🔷 <b>IBM Cloud & DevOps</b> — IBM SkillsBuild</li>
+</ul>
+
+###
+
+<h3 align="left">🛠 Languages & Tools</h3>
 
 ###
 
@@ -124,11 +145,17 @@ I'm a <b>DevOps Engineer</b> from India 🇮🇳, currently pursuing a <b>B.Tech
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="grafana logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="40" alt="prometheus logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
 </div>
 
 ###
 
-<h3 align="left">📊  My Stats</h3>
+<h3 align="left">📊 My Stats</h3>
 
 ###
 
@@ -151,7 +178,7 @@ I'm a <b>DevOps Engineer</b> from India 🇮🇳, currently pursuing a <b>B.Tech
 
 ###
 
-<h3 align="left">🐍  Contribution Snake</h3>
+<h3 align="left">🐍 Contribution Snake</h3>
 
 <div align="center">
   <picture>
@@ -164,8 +191,9 @@ I'm a <b>DevOps Engineer</b> from India 🇮🇳, currently pursuing a <b>B.Tech
 ###
 
 <div align="center">
-  <b>💬 Let's connect and build something awesome together!</b><br><br>
-  <a href="mailto:creatvaman@gmail.com">📧 creatvaman@gmail.com</a> · 
-  <a href="https://www.linkedin.com/in/aman-nikhare-1620bb18b/">💼 LinkedIn</a> · 
-  <a href="https://github.com/amco-f22">🐙 GitHub</a>
+  <b>💬 Open to DevOps, Cloud & SRE internship opportunities — let's build something reliable together!</b><br><br>
+  <a href="mailto:creatvaman@gmail.com">📧 creatvaman@gmail.com</a> ·
+  <a href="https://www.linkedin.com/in/aman-nikhare-1620bb18b/">💼 LinkedIn</a> ·
+  <a href="https://github.com/amco-f22">🐙 GitHub</a> ·
+  <a href="https://www.threads.net/@a_manincloud">🧵 Threads</a>
 </div>
