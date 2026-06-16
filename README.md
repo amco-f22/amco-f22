@@ -1,7 +1,5 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:00ff88&height=120&section=header&text=&animation=fadeIn" width="100%"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:00ff88&height=120&section=header&text=&animation=fadeIn" width="100%"/>
 </div>
 
 <div align="center">
@@ -9,7 +7,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2500&pause=800&color=00FF88&center=true&vCenter=true&width=600&height=30&lines=%24+building+scalable+infra+on+AWS...;%24+shipping+CI%2FCD+pipelines...;%24+securing+every+stage+of+the+pipeline...;%24+open+to+DevOps+%C2%B7+Cloud+%C2%B7+SRE+roles" alt="Subtyping SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2500&pause=800&color=00FF88&center=true&vCenter=true&width=600&height=30&lines=%24+building+cloud-native+platforms...;%24+automating+complex+workflows...;%24+exploring+AI-driven+operations...;%24+open+to+DevOps+%C2%B7+Cloud+%C2%B7+SRE+roles" alt="Subtyping SVG"/>
 </div>
 
 <br/>
@@ -19,7 +17,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-nikhare-1620bb18b/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amco-f22)
 [![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.net/@a_manincloud)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:creatvaman@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00ff88?style=for-the-badge&logo=vercel&logoColor=black)](https://amanincloud.com)
 
 </div>
 
@@ -29,112 +27,84 @@
 
 ---
 
-## `$ whoami`
+## 👨‍💻 `$ whoami`
 
 ```yaml
 name       : Aman Nikhare
 role       : DevOps & Cloud Engineer · SRE · DevSecOps
-location   : Dehradun, India 🇮🇳
+focus      : Creating reliable systems, better developer experiences, and infrastructure that scales with confidence.
 education  : B.Tech CSE · DIT University · 2026
-status     : ● Open to DevOps / Cloud / SRE Internships & Roles
-focus      : Cloud Infrastructure · CI/CD · Shift-Left Security
-social     : Threads @a_manincloud · LinkedIn · GitHub amco-f22
+status     : ● Available for DevOps / Cloud / SRE Internships & Roles
 ```
 
 ---
 
 ## 💼 Experience
 
-### Upwork — Client Work &nbsp; `Feb 2026 – Apr 2026`
+### Upwork, Guru — Client Engagements &nbsp; `Feb 2026 – Jun 2026`
 **DevOps & Cloud Engineer · Remote**
 
 `AWS` `Terraform` `Docker` `GitHub Actions` `EKS` `Trivy` `Checkov`
 
-- Delivered a full **DevSecOps pipeline** for a 3-tier microservices app (React, Node.js, PostgreSQL) — **30+ automated deployments**, cutting deployment time by **~60%** vs. prior manual process
-- Provisioned production-grade AWS infrastructure using Terraform — VPC, subnets across **3 AZs**, NAT gateway, and Amazon EKS — reducing environment setup from hours to **under 15 minutes**
-- Containerized all services with Docker multi-stage builds + Docker Compose, slashing developer onboarding from **2–3 hours to under 10 minutes**
-- Enforced **4 automated security gates per release** via GitHub Actions, Trivy, Checkov, and npm audit — shift-left security with documented runbooks
+- 🚀 **CI/CD & Delivery:** Transformed a 3-tier microservices app into a reliable release engine using GitHub Actions, enabling 30+ zero-downtime deployments and reducing release cycles by 60%.
+- ☁️ **Cloud Infrastructure:** Architected fault-tolerant AWS environments via modular Terraform—deploying VPCs, NAT gateways, and EKS clusters in under 15 minutes.
+- 🐳 **Containerization:** Re-engineered development workflows with multi-stage Docker builds and optimized Kubernetes manifests, slashing developer onboarding from hours to minutes.
+- 🛡️ **DevSecOps:** Enforced shift-left security by integrating Trivy, Checkov, and OWASP dependency checks directly into the pipeline, complete with automated incident runbooks.
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
+### 🕵️‍♂️ AI Cloud Cost Detective
+[![Repo](https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/amco-f22/ai-cloud-cost-detective)
+
+`FastAPI` `React` `Google Gemini` `AWS CLI` `PostgreSQL`
+
+- Built an AI-powered agent to proactively detect cloud resource leaks and misconfigurations, saving potential billing overruns.
+- Analyzed 980+ AWS resources to flag 230+ cost vulnerabilities using Google Gemini.
+- Engineered a high-performance backend with multi-threaded AWS queries and real-time WebSocket dashboard streaming.
+
+</td>
+<td width="50%" valign="top">
+
 ### 🔒 End-to-End DevSecOps Pipeline
 [![Repo](https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/amco-f22/DevSecOps-Netflix-Clone-K8s)
 
-`Jenkins` `Kubernetes` `Docker` `ArgoCD` `Prometheus` `Grafana` `SonarQube` `Trivy` `OWASP`
+`Jenkins` `Kubernetes` `Docker` `ArgoCD` `Trivy` `OWASP`
 
-- CI/CD pipeline with Jenkins & GitHub Actions — **50% faster deployments**
-- Security scanning at every stage: SAST, SCA, DAST via SonarQube, Trivy & OWASP ZAP
-- GitOps delivery with ArgoCD on Kubernetes + full Prometheus/Grafana observability
-
-</td>
-<td width="50%" valign="top">
-
-### 📡 Kubernetes Monitoring & Alerting Platform
-[![Repo](https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/amco-f22)
-
-`Prometheus` `Grafana` `AlertManager` `Kubernetes` `Helm` `PromQL` `ArgoCD`
-
-- Full observability stack deployed via Helm into a dedicated monitoring namespace
-- **4 PromQL queries** tracking real-time CPU, memory & network across 5 microservices
-- GitOps-based delivery via ArgoCD for declarative, Git-driven cluster state
+- Architected a secure CI/CD pipeline achieving 50% faster deployments.
+- Embedded SAST, SCA, and DAST using SonarQube, Trivy, and OWASP ZAP.
+- Implemented GitOps state synchronization using ArgoCD on EKS with complete Prometheus/Grafana observability.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🏗️ Highly Available 3-Tier AWS Infrastructure
+### 📡 Kubernetes Observability Platform
+[![Repo](https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/amco-f22)
+
+`Prometheus` `Grafana` `AlertManager` `Helm` `ArgoCD`
+
+- Deployed a comprehensive observability stack into a dedicated cluster namespace via Helm.
+- Authored custom PromQL metrics tracking CPU, memory, and network throughput across 5 core microservices.
+- Automated declarative, Git-driven infrastructure rollouts using ArgoCD.
+
+</td>
+<td width="50%" valign="top">
+
+### 🏗️ Highly Available AWS Infrastructure
 [![Repo](https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/amco-f22/aws-3tier-github-actions-terraform)
 
-`Terraform` `AWS` `Multi-AZ RDS` `ALB` `Auto Scaling` `GitHub Actions`
+`Terraform` `AWS` `Multi-AZ RDS` `ALB` `Auto Scaling`
 
-- **7 reusable Terraform modules** — full infra deployed in 15–20 minutes
-- Fault-tolerant: ASGs, Multi-AZ RDS PostgreSQL, private subnets, NAT, Bastion host
-- Remote state with S3 backend; automated IaC via GitHub Actions
-
-</td>
-<td width="50%" valign="top">
-
-### 💰 Automated Cloud Cost Optimization
-[![Repo](https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/amco-f22/AWS-Cloud-Cost-Optimization)
-
-`AWS Lambda` `Python` `Boto3` `EventBridge` `CloudWatch` `IAM`
-
-- Serverless auto-cleanup of stale EBS snapshots — **100% manual effort eliminated**
-- Daily EventBridge cron triggers covering deleted & detached volume scenarios
-- Least-privilege IAM scoped to exactly 4 required EC2 permissions
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🛒 oneCart — B.Tech Capstone Project
-[![Repo](https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/amco-f22)
-
-`MongoDB` `Express` `React` `Node.js` `Voice API`
-
-- Full-stack e-commerce platform with **voice-controlled navigation** for hands-free UX
-- End-to-end MERN architecture with RESTful APIs and accessible UI design
-- Presented as final-year capstone at DIT University (UCF439)
-
-</td>
-<td width="50%" valign="top">
-
-### 🛡️ DevSecOps Security Practices
-[![Threads](https://img.shields.io/badge/Content_on_Threads-000000?style=flat-square&logo=threads&logoColor=white)](https://www.threads.net/@a_manincloud)
-
-`SonarQube` `pip-audit` `OWASP ZAP` `Trivy` `Checkov`
-
-- Educational DevSecOps content covering SAST, SCA & DAST toolchains
-- Documented security integrations: SonarQube, pip-audit, OWASP ZAP
-- Shared via LinkedIn & Threads for the DevOps community
+- Developed 7 highly reusable Terraform modules capable of spinning up a full 3-tier architecture in 15 minutes.
+- Configured robust fault-tolerance: Auto Scaling Groups, Multi-AZ PostgreSQL, private subnets, and NAT.
+- Secured remote state locking via S3/DynamoDB with automated provisioning through GitHub Actions.
 
 </td>
 </tr>
@@ -144,56 +114,53 @@ social     : Threads @a_manincloud · LinkedIn · GitHub amco-f22
 
 ## 🛠️ Tech Stack
 
-### ☁️ Cloud Platforms
+### ☁️ Cloud & IaC
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=FF9900)
 ![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white)
 ![EKS](https://img.shields.io/badge/EKS-FF9900?style=flat-square&logo=amazoneks&logoColor=white)
 ![S3](https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
 ![IAM](https://img.shields.io/badge/IAM-DD344C?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat-square&logo=amazoncloudwatch&logoColor=white)
-![EventBridge](https://img.shields.io/badge/EventBridge-E7157B?style=flat-square&logo=amazonwebservices&logoColor=white)
-![VPC](https://img.shields.io/badge/VPC-232F3E?style=flat-square&logo=amazonwebservices&logoColor=FF9900)
 ![ALB](https://img.shields.io/badge/ALB-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)
-
-### 🏗️ Infrastructure as Code
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 ![CloudFormation](https://img.shields.io/badge/CloudFormation-FF4F8B?style=flat-square&logo=amazonwebservices&logoColor=white)
 
-### 🐳 Containers & Orchestration
+### 🐳 Containers & CI/CD
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
-
-### ⚙️ CI/CD & GitOps
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
 
-### 🛡️ Security & Observability
-![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)
-![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=flat-square&logo=aquasecurity&logoColor=white)
-![Checkov](https://img.shields.io/badge/Checkov-7B42BC?style=flat-square&logo=paloaltonetworks&logoColor=white)
-![OWASP](https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white)
+### 🛡️ Security, Observability & AI
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=flat-square&logo=aquasecurity&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 
-### 📝 Scripting & OS
+### 💻 Development & Systems
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
 ---
 
-## 🎓 Certifications & Achievements
+## 🎓 Certifications
 
 | Badge | Certification | Issuer | Year |
 |:-----:|--------------|--------|:----:|
-| ☁️ | AWS Cloud Practitioner Essentials | Amazon Web Services | 2025 |
+| ☁️ | **AWS Certified Cloud Practitioner** | Amazon Web Services | 2025 |
 | 🏆 | MLH Global Hack Week — Cloud Track | Major League Hacking | 2026 |
 | 🌐 | Verizon Cloud Platform Job Simulation | Forage | — |
 | 🔷 | Datacom Software Engineering Job Simulation | Forage | — |
-| 🤖 | IBM Cloud & DevOps | IBM SkillsBuild | — |
 | 🐳 | KodeKloud Engineer Docker (Level 1) | KodeKloud | — |
 
 ---
@@ -236,7 +203,7 @@ social     : Threads @a_manincloud · LinkedIn · GitHub amco-f22
 
 <div align="center">
 
-**`// always building · always learning · always shipping`**
+**`// build once · automate always · observe everything`**
 
 <br/>
 
